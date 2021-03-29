@@ -65,6 +65,5 @@ namespace Program
 
             return point;
         }
-
     }
 }

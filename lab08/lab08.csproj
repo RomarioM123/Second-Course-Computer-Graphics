@@ -45,8 +45,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BrightnessContrast.cs" />
-    <Compile Include="ColorBalance.cs" />
-    <Compile Include="MatricaSvertki.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
